@@ -1,4 +1,5 @@
 # This is a simple readme file
-# It's special
+# It is special
 # Another change
-# And yet another change
+# Change guaranteed to cause a conflict.
+
